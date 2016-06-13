@@ -1,0 +1,7 @@
+This repository includes MATLAB codes to perform searches for continuous gravitational waves
+ emitted by supermassive black hole binaries in circular orbits. The paper that describes the
+method and its applications is:
+    Zhu et al. 2016, MNRAS submitted, "Detection and localization of continuous gravitational
+waves with pulsar timing arrays: the role of pulsar terms"
+
+More to follow.
